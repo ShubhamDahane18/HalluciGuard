@@ -1,0 +1,183 @@
+[
+    {
+        "id": "q001",
+        "question": "Who founded Tesla?",
+        "generated_answer": "Tesla was founded by Elon Musk in 2004. Martin Eberhard and Marc Tarpenning were also involved and served as the original founders in 2003. Elon Musk later became CEO in 2008.",
+        "claims": [
+            {
+                "claim": "Tesla was founded by Elon Musk in 2004.",
+                "label": "unsupported"
+            },
+            {
+                "claim": "Martin Eberhard was a founder of Tesla.",
+                "label": "supported"
+            },
+            {
+                "claim": "Marc Tarpenning was a founder of Tesla.",
+                "label": "supported"
+            },
+            {
+                "claim": "Tesla was founded in 2003.",
+                "label": "supported"
+            },
+            {
+                "claim": "Elon Musk became CEO of Tesla in 2008.",
+                "label": "supported"
+            }
+        ]
+    },
+    {
+        "id": "q002",
+        "question": "What happened during the Apollo 11 mission?",
+        "generated_answer": "Apollo 11 landed on the Moon on July 20, 1969. Neil Armstrong was the first human to walk on the Moon. Buzz Aldrin also walked on the Moon. Michael Collins piloted the Command Module in lunar orbit. The mission launched from Kennedy Space Center.",
+        "claims": [
+            {
+                "claim": "Apollo 11 landed on the Moon on July 20, 1969.",
+                "label": "supported"
+            },
+            {
+                "claim": "Neil Armstrong was the first human to walk on the Moon.",
+                "label": "supported"
+            },
+            {
+                "claim": "Buzz Aldrin walked on the Moon during Apollo 11.",
+                "label": "supported"
+            },
+            {
+                "claim": "Michael Collins piloted the Command Module in lunar orbit.",
+                "label": "supported"
+            },
+            {
+                "claim": "The mission launched from Kennedy Space Center.",
+                "label": "uncertain"
+            }
+        ]
+    },
+    {
+        "id": "q003",
+        "question": "What is the history of artificial intelligence?",
+        "generated_answer": "AI was coined by Alan Turing in 1950 at the Turing Conference. The Dartmouth Conference of 1956 involved John McCarthy and Claude Shannon. GPT-3 was released in 2020 with 175 billion parameters. AlphaGo defeated Lee Sedol only 1 game out of 5.",
+        "claims": [
+            {
+                "claim": "The term AI was coined by Alan Turing in 1950.",
+                "label": "unsupported"
+            },
+            {
+                "claim": "The Dartmouth Conference in 1956 was a founding event for AI.",
+                "label": "supported"
+            },
+            {
+                "claim": "John McCarthy was involved in the Dartmouth Conference.",
+                "label": "supported"
+            },
+            {
+                "claim": "Claude Shannon attended the Dartmouth Conference.",
+                "label": "supported"
+            },
+            {
+                "claim": "GPT-3 has 175 billion parameters.",
+                "label": "supported"
+            },
+            {
+                "claim": "AlphaGo defeated Lee Sedol in only 1 game out of 5.",
+                "label": "unsupported"
+            }
+        ]
+    },
+    {
+        "id": "q004",
+        "question": "What is India's moon mission history?",
+        "generated_answer": "India launched Chandrayaan-1 in 2008, which discovered water on the Moon. Chandrayaan-2 successfully landed near the south pole in 2019. Chandrayaan-3 landed in 2023 and made India the first country to land near the lunar south pole.",
+        "claims": [
+            {
+                "claim": "India launched Chandrayaan-1 in 2008.",
+                "label": "supported"
+            },
+            {
+                "claim": "Chandrayaan-1 discovered water on the Moon.",
+                "label": "supported"
+            },
+            {
+                "claim": "Chandrayaan-2 successfully landed near the south pole in 2019.",
+                "label": "unsupported"
+            },
+            {
+                "claim": "Chandrayaan-3 landed on the Moon in 2023.",
+                "label": "supported"
+            },
+            {
+                "claim": "India was the first country to land near the lunar south pole.",
+                "label": "supported"
+            }
+        ]
+    },
+    {
+        "id": "q005",
+        "question": "Who are the godfathers of deep learning?",
+        "generated_answer": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are called the godfathers of deep learning. They received the 2018 Nobel Prize in Computer Science. Hinton is known for work on backpropagation. The transformer architecture replaced earlier RNN-based approaches.",
+        "claims": [
+            {
+                "claim": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are called the godfathers of deep learning.",
+                "label": "supported"
+            },
+            {
+                "claim": "They received the 2018 Nobel Prize in Computer Science.",
+                "label": "unsupported"
+            },
+            {
+                "claim": "The transformer architecture was introduced in 2017.",
+                "label": "supported"
+            },
+            {
+                "claim": "Backpropagation is associated with Geoffrey Hinton.",
+                "label": "supported"
+            }
+        ]
+    },
+    {
+        "id": "q006",
+        "question": "What is ISRO's achievement with Mars?",
+        "generated_answer": "ISRO launched its Mars mission in 2013. India became the first Asian country to reach Mars orbit and achieved this on the second attempt. The mission is also known as Mangalyaan.",
+        "claims": [
+            {
+                "claim": "ISRO launched its Mars mission in 2013.",
+                "label": "supported"
+            },
+            {
+                "claim": "India became the first Asian country to reach Mars orbit.",
+                "label": "supported"
+            },
+            {
+                "claim": "India achieved Mars orbit on the second attempt.",
+                "label": "unsupported"
+            },
+            {
+                "claim": "The mission is known as Mangalyaan.",
+                "label": "supported"
+            }
+        ]
+    },
+    {
+        "id": "q007",
+        "question": "What are Random Forests?",
+        "generated_answer": "Random forests are an ensemble method using multiple decision trees. They were introduced by Yann LeCun in 2001. They output the mean prediction of all trees. Gradient boosting is a related technique.",
+        "claims": [
+            {
+                "claim": "Random forests are an ensemble method using multiple decision trees.",
+                "label": "supported"
+            },
+            {
+                "claim": "Random forests were introduced by Yann LeCun in 2001.",
+                "label": "unsupported"
+            },
+            {
+                "claim": "Random forests output the mean prediction of all trees.",
+                "label": "supported"
+            },
+            {
+                "claim": "Gradient boosting is a related ensemble technique.",
+                "label": "supported"
+            }
+        ]
+    }
+]

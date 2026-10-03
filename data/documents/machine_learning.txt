@@ -1,0 +1,19 @@
+Machine learning (ML) is a subfield of artificial intelligence that gives systems the ability to automatically learn and improve from experience without being explicitly programmed. The term was coined by Arthur Samuel in 1959.
+
+Supervised learning involves training a model on labeled data. Common algorithms include linear regression, logistic regression, decision trees, random forests, support vector machines (SVMs), and neural networks. The training data consists of input-output pairs, and the model learns to map inputs to outputs.
+
+Unsupervised learning involves finding patterns in unlabeled data. Common algorithms include k-means clustering, hierarchical clustering, principal component analysis (PCA), and autoencoders.
+
+Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment to maximize cumulative reward. Key concepts include the agent, environment, state, action, and reward. The AlphaGo program, developed by DeepMind, used reinforcement learning combined with deep neural networks.
+
+The bias-variance tradeoff is a fundamental concept in machine learning. High bias (underfitting) occurs when a model is too simple. High variance (overfitting) occurs when a model is too complex and memorizes training data rather than learning general patterns.
+
+Random forests are an ensemble learning method that operate by constructing multiple decision trees during training and outputting the mean prediction of individual trees. They were introduced by Leo Breiman in 2001.
+
+Gradient Boosting is another ensemble technique that builds trees sequentially, with each tree correcting the errors of the previous one. XGBoost (Extreme Gradient Boosting), introduced by Tianqi Chen in 2016, became popular in machine learning competitions.
+
+Backpropagation is the algorithm used to train neural networks by computing the gradient of the loss function with respect to network weights. It was popularized in the 1980s through work by Rumelhart, Hinton, and Williams.
+
+Large language models (LLMs) are deep learning models trained on vast amounts of text data. They can generate human-like text, answer questions, and perform various natural language tasks. GPT (Generative Pre-trained Transformer) models, developed by OpenAI, are prominent examples of LLMs.
+
+The transformer architecture, introduced in the 2017 paper "Attention is All You Need" by Vaswani et al., uses self-attention mechanisms and has become the foundation for modern LLMs including BERT, GPT, T5, and others.

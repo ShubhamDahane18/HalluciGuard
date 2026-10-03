@@ -1,0 +1,15 @@
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to intelligence displayed by humans and other animals. The term "artificial intelligence" was coined by John McCarthy in 1956 at the Dartmouth Conference, which is widely considered the founding event of AI as a field.
+
+The field of AI research was founded at a workshop at Dartmouth College in 1956. Attendees included John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. The workshop led to decades of research into symbolic AI approaches.
+
+Machine learning, a subset of AI, involves algorithms that improve automatically through experience. Arthur Samuel coined the term "machine learning" in 1959. Deep learning, a subset of machine learning, uses artificial neural networks with many layers to learn representations of data.
+
+Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are often referred to as the "Godfathers of Deep Learning." They were awarded the 2018 Turing Award jointly for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing.
+
+The AlphaGo program, developed by Google DeepMind, defeated world champion Go player Lee Sedol 4-1 in March 2016. This was a significant milestone because Go was previously considered extremely difficult for machines to play at a grandmaster level.
+
+GPT-3 (Generative Pre-trained Transformer 3) was released by OpenAI in 2020. It has 175 billion parameters. GPT-4 was released by OpenAI in March 2023. ChatGPT, based on the GPT-3.5 model, was launched in November 2022 and gained 100 million users within two months, making it the fastest-growing consumer application in history.
+
+Turing Award, often called the Nobel Prize of Computing, is given by the Association for Computing Machinery (ACM). Alan Turing, known as the father of theoretical computer science and AI, developed the Turing Test to evaluate machine intelligence.
+
+The Turing Test, proposed by Alan Turing in his 1950 paper "Computing Machinery and Intelligence," evaluates a machine's ability to exhibit intelligent behavior indistinguishable from that of a human.
